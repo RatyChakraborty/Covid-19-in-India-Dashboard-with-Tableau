@@ -1,9 +1,6 @@
 # Covid-19-in-India-Dashboard-with-Tableau
-Overview:
-
 The dashboard provides a comprehensive overview of Covid-19 cases in India, offering insights into trends, regional variations, and key statistics.
 Data Sources:
-
 Multiple data sources are seamlessly integrated, including government health databases, global health organizations, and demographic data.
 Map Visualization:
 
